@@ -1,5 +1,5 @@
 # pHTellerApp
-Mobile all that uses machine learning model to show the precise pH value of pH strip.
+Mobile app that uses machine learning model to show the precise pH value of pH strip.
 Why Machine Learning for pH Finding: Generally pH strip is used to find the pH value of a chemical but for some pH value of like 4,5 and 8,9 etc it is very difficult to find out the color difference by manual observation. To solve this issue machine learning is integrated here. I have trained the ML model with 439 labelled data of pH 1 to pH 13. Take the picture of ph strip after dipping into a solution and then take the picture from the this app (as of now crop feature is not available I'll add that later on). This app will Tell you the exact pH value(as of now model is trained for integer value only). This is a working project so I will keep on update here if any new feature is added into the app.
 
 
